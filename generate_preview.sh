@@ -3,11 +3,11 @@
 # NOTE: this script should be run from the wallpapers root directory.
 
 readme_body="""
-A gallery of wallpapers from [junnunkarim/dotfiles-linux](https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper).
+A gallery of wallpapers from [[https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper][junnunkarim/dotfiles-linux]].
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/amtoine-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/junnunkarim-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
 #+begin_src bash
 git clone https://github.com/amtoine/pkgbuilds
 cd ./pkgbuilds
