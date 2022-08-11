@@ -1,0 +1,161 @@
+* junnunkarim-wallpapers
+
+A gallery of wallpapers from [junnunkarim/dotfiles-linux](https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper).
+
+** Installation
+*** on ArchLinux
+one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/amtoine-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+#+begin_src bash
+git clone https://github.com/amtoine/pkgbuilds
+cd ./pkgbuilds
+./install.sh x86_64/junnunkarim-wallpapers-git
+#+end_src
+*** on another distribution of Linux
+/Makefile and instructions *coming soon*/
+** Usage
+The wallpapers are installed by default in ~/usr/share/backgrounds/junnunkarim-wallpapers-git~.
+
+Try having a look at them with ~feh /usr/share/backgrounds/junnunkarim-wallpapers-git/~ for instance!
+
+** Ownership.
+These wallpapers come from the internet. Diffusion and usage rights are not known for all of them.
+*I do not own any of the wallpapers listed in this repo.*
+
+If you stumble upon art or photos that you own or that you know and show that special rights have to be used to use or share them, *let me known and I will remove them immediately and without question!*
+
+** Gallery
+**** mist_forest_nord.jpg
+#+CAPTION: mist_forest_nord.jpg
+#+NAME: wallpapers/mist_forest_nord.jpg
+[[./wallpapers/mist_forest_nord.jpg]]
+
+**** pixelart_arabian_palace_princess_snakepixel.png
+#+CAPTION: pixelart_arabian_palace_princess_snakepixel.png
+#+NAME: wallpapers/pixelart_arabian_palace_princess_snakepixel.png
+[[./wallpapers/pixelart_arabian_palace_princess_snakepixel.png]]
+
+**** pixelart_crocktown_fantasy_mountain.png
+#+CAPTION: pixelart_crocktown_fantasy_mountain.png
+#+NAME: wallpapers/pixelart_crocktown_fantasy_mountain.png
+[[./wallpapers/pixelart_crocktown_fantasy_mountain.png]]
+
+**** pixelart_dock-no4_house_destroyed_warm-color.png
+#+CAPTION: pixelart_dock-no4_house_destroyed_warm-color.png
+#+NAME: wallpapers/pixelart_dock-no4_house_destroyed_warm-color.png
+[[./wallpapers/pixelart_dock-no4_house_destroyed_warm-color.png]]
+
+**** pixelart_evening_trees_pole_wires_makrustic.png
+#+CAPTION: pixelart_evening_trees_pole_wires_makrustic.png
+#+NAME: wallpapers/pixelart_evening_trees_pole_wires_makrustic.png
+[[./wallpapers/pixelart_evening_trees_pole_wires_makrustic.png]]
+
+**** pixelart_fantasy_whale_flying_building.png
+#+CAPTION: pixelart_fantasy_whale_flying_building.png
+#+NAME: wallpapers/pixelart_fantasy_whale_flying_building.png
+[[./wallpapers/pixelart_fantasy_whale_flying_building.png]]
+
+**** pixelart_farm_farmer_warm-color_jmw327.png
+#+CAPTION: pixelart_farm_farmer_warm-color_jmw327.png
+#+NAME: wallpapers/pixelart_farm_farmer_warm-color_jmw327.png
+[[./wallpapers/pixelart_farm_farmer_warm-color_jmw327.png]]
+
+**** pixelart_forest_flower.png
+#+CAPTION: pixelart_forest_flower.png
+#+NAME: wallpapers/pixelart_forest_flower.png
+[[./wallpapers/pixelart_forest_flower.png]]
+
+**** pixelart_france_house_police-car.jpg
+#+CAPTION: pixelart_france_house_police-car.jpg
+#+NAME: wallpapers/pixelart_france_house_police-car.jpg
+[[./wallpapers/pixelart_france_house_police-car.jpg]]
+
+**** pixelart_house_chibi_person_game_jmw327.png
+#+CAPTION: pixelart_house_chibi_person_game_jmw327.png
+#+NAME: wallpapers/pixelart_house_chibi_person_game_jmw327.png
+[[./wallpapers/pixelart_house_chibi_person_game_jmw327.png]]
+
+**** pixelart_house_inside_girl_book_dog_jmw327.png
+#+CAPTION: pixelart_house_inside_girl_book_dog_jmw327.png
+#+NAME: wallpapers/pixelart_house_inside_girl_book_dog_jmw327.png
+[[./wallpapers/pixelart_house_inside_girl_book_dog_jmw327.png]]
+
+**** pixelart_medicine_flower_reminder_cattppuccin_Ansitru.png
+#+CAPTION: pixelart_medicine_flower_reminder_cattppuccin_Ansitru.png
+#+NAME: wallpapers/pixelart_medicine_flower_reminder_cattppuccin_Ansitru.png
+[[./wallpapers/pixelart_medicine_flower_reminder_cattppuccin_Ansitru.png]]
+
+**** pixelart_medicine_flower_reminder_dracula_Ansitru.png
+#+CAPTION: pixelart_medicine_flower_reminder_dracula_Ansitru.png
+#+NAME: wallpapers/pixelart_medicine_flower_reminder_dracula_Ansitru.png
+[[./wallpapers/pixelart_medicine_flower_reminder_dracula_Ansitru.png]]
+
+**** pixelart_medicine_flower_reminder_nord_Ansitru.png
+#+CAPTION: pixelart_medicine_flower_reminder_nord_Ansitru.png
+#+NAME: wallpapers/pixelart_medicine_flower_reminder_nord_Ansitru.png
+[[./wallpapers/pixelart_medicine_flower_reminder_nord_Ansitru.png]]
+
+**** pixelart_mountain_armor_dark.png
+#+CAPTION: pixelart_mountain_armor_dark.png
+#+NAME: wallpapers/pixelart_mountain_armor_dark.png
+[[./wallpapers/pixelart_mountain_armor_dark.png]]
+
+**** pixelart_mountain_river_valley.png
+#+CAPTION: pixelart_mountain_river_valley.png
+#+NAME: wallpapers/pixelart_mountain_river_valley.png
+[[./wallpapers/pixelart_mountain_river_valley.png]]
+
+**** pixelart_mountains.png
+#+CAPTION: pixelart_mountains.png
+#+NAME: wallpapers/pixelart_mountains.png
+[[./wallpapers/pixelart_mountains.png]]
+
+**** pixelart_mountains_clouds_forest_makrustic.png
+#+CAPTION: pixelart_mountains_clouds_forest_makrustic.png
+#+NAME: wallpapers/pixelart_mountains_clouds_forest_makrustic.png
+[[./wallpapers/pixelart_mountains_clouds_forest_makrustic.png]]
+
+**** pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
+#+CAPTION: pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
+#+NAME: wallpapers/pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
+[[./wallpapers/pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png]]
+
+**** pixelart_night_train_cozy_gas_RoyalNaym.png
+#+CAPTION: pixelart_night_train_cozy_gas_RoyalNaym.png
+#+NAME: wallpapers/pixelart_night_train_cozy_gas_RoyalNaym.png
+[[./wallpapers/pixelart_night_train_cozy_gas_RoyalNaym.png]]
+
+**** pixelart_night_train_cozy_gas_warm-color_RoyalNaym.png
+#+CAPTION: pixelart_night_train_cozy_gas_warm-color_RoyalNaym.png
+#+NAME: wallpapers/pixelart_night_train_cozy_gas_warm-color_RoyalNaym.png
+[[./wallpapers/pixelart_night_train_cozy_gas_warm-color_RoyalNaym.png]]
+
+**** pixelart_pokemon_rayquaza_forest.png
+#+CAPTION: pixelart_pokemon_rayquaza_forest.png
+#+NAME: wallpapers/pixelart_pokemon_rayquaza_forest.png
+[[./wallpapers/pixelart_pokemon_rayquaza_forest.png]]
+
+**** pixelart_ruins_girl_trees.png
+#+CAPTION: pixelart_ruins_girl_trees.png
+#+NAME: wallpapers/pixelart_ruins_girl_trees.png
+[[./wallpapers/pixelart_ruins_girl_trees.png]]
+
+**** pixelart_sea_port_house_lighthouse.png
+#+CAPTION: pixelart_sea_port_house_lighthouse.png
+#+NAME: wallpapers/pixelart_sea_port_house_lighthouse.png
+[[./wallpapers/pixelart_sea_port_house_lighthouse.png]]
+
+**** pixelart_train_station_night.png
+#+CAPTION: pixelart_train_station_night.png
+#+NAME: wallpapers/pixelart_train_station_night.png
+[[./wallpapers/pixelart_train_station_night.png]]
+
+**** pixelart_witch_cauldron.png
+#+CAPTION: pixelart_witch_cauldron.png
+#+NAME: wallpapers/pixelart_witch_cauldron.png
+[[./wallpapers/pixelart_witch_cauldron.png]]
+
+**** pixelart_zelda_link_hyrule.png
+#+CAPTION: pixelart_zelda_link_hyrule.png
+#+NAME: wallpapers/pixelart_zelda_link_hyrule.png
+[[./wallpapers/pixelart_zelda_link_hyrule.png]]
+
