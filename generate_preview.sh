@@ -3,22 +3,22 @@
 # NOTE: this script should be run from the wallpapers root directory.
 
 readme_body="""
-A gallery of wallpapers from [[https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper][junnunkarim/dotfiles-linux]].
+A gallery of wallpapers from [[https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper][junnunkarim/dotfiles-linux]] for goats.
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/junnunkarim-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-junnunkarim-wallpapers-git/PKGBUILD][the PKGBUILD for goats]] as follows:
 #+begin_src bash
-git clone https://github.com/amtoine/pkgbuilds
+git clone https://github.com/goatfiles/pkgbuilds
 cd ./pkgbuilds
-./install.sh x86_64/junnunkarim-wallpapers-git
+./install.sh x86_64/goat-junnunkarim-wallpapers-git
 #+end_src
 *** on another distribution of Linux
 /Makefile and instructions *coming soon*/
 ** Usage
-The wallpapers are installed by default in ~/usr/share/backgrounds/junnunkarim-wallpapers-git~.
+The wallpapers are installed by default in ~/usr/share/backgrounds/goat-junnunkarim-wallpapers-git~.
 
-Try having a look at them with ~feh /usr/share/backgrounds/junnunkarim-wallpapers-git/~ for instance!
+Try having a look at them with ~feh /usr/share/backgrounds/goat-junnunkarim-wallpapers-git/~ for instance!
 
 ** Ownership.
 These wallpapers come from the internet. Diffusion and usage rights are not known for all of them.
