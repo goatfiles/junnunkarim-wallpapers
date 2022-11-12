@@ -1,21 +1,21 @@
 * junnunkarim-wallpapers
 
-A gallery of wallpapers from [[https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper][junnunkarim/dotfiles-linux]].
+A gallery of wallpapers from [[https://github.com/junnunkarim/dotfiles-linux/tree/main/.config/wallpaper][junnunkarim/dotfiles-linux]] for goats.
 
 ** Installation
 *** on ArchLinux
-one can use [[https://github.com/amtoine/pkgbuilds/blob/main/x86_64/junnunkarim-wallpapers-git/PKGBUILD][my custom PKGBUILD]] as follows:
+one can use [[https://github.com/goatfiles/pkgbuilds/blob/main/x86_64/goat-junnunkarim-wallpapers-git/PKGBUILD][the PKGBUILD for goats]] as follows:
 #+begin_src bash
-git clone https://github.com/amtoine/pkgbuilds
+git clone https://github.com/goatfiles/pkgbuilds
 cd ./pkgbuilds
-./install.sh x86_64/junnunkarim-wallpapers-git
+./install.sh x86_64/goat-junnunkarim-wallpapers-git
 #+end_src
 *** on another distribution of Linux
 /Makefile and instructions *coming soon*/
 ** Usage
-The wallpapers are installed by default in ~/usr/share/backgrounds/junnunkarim-wallpapers-git~.
+The wallpapers are installed by default in ~/usr/share/backgrounds/goat-junnunkarim-wallpapers-git~.
 
-Try having a look at them with ~feh /usr/share/backgrounds/junnunkarim-wallpapers-git/~ for instance!
+Try having a look at them with ~feh /usr/share/backgrounds/goat-junnunkarim-wallpapers-git/~ for instance!
 
 ** Ownership.
 These wallpapers come from the internet. Diffusion and usage rights are not known for all of them.
@@ -104,15 +104,15 @@ If you stumble upon art or photos that you own or that you know and show that sp
 #+NAME: wallpapers/pixelart_mountain_river_valley.png
 [[./wallpapers/pixelart_mountain_river_valley.png]]
 
-**** pixelart_mountains.png
-#+CAPTION: pixelart_mountains.png
-#+NAME: wallpapers/pixelart_mountains.png
-[[./wallpapers/pixelart_mountains.png]]
-
 **** pixelart_mountains_clouds_forest_makrustic.png
 #+CAPTION: pixelart_mountains_clouds_forest_makrustic.png
 #+NAME: wallpapers/pixelart_mountains_clouds_forest_makrustic.png
 [[./wallpapers/pixelart_mountains_clouds_forest_makrustic.png]]
+
+**** pixelart_mountains.png
+#+CAPTION: pixelart_mountains.png
+#+NAME: wallpapers/pixelart_mountains.png
+[[./wallpapers/pixelart_mountains.png]]
 
 **** pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
 #+CAPTION: pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
